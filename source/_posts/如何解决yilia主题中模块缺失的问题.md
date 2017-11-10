@@ -1,6 +1,7 @@
 ---
 title: 如何解决yilia主题中模块缺失的问题
 date: 2017-11-01 14:50:28
+categories: 技术
 tags: yilia模块缺失
 ---
 

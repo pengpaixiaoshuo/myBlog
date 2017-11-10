@@ -1,6 +1,7 @@
 ---
 title: CentOS编译安装nginx、php
 date: 2017-11-03 22:11:12
+categories: 技术
 tags: Centos编译安装ngins,php
 ---
 
